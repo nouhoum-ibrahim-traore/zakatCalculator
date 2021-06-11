@@ -1,2 +1,2 @@
 # zakatCalculator
-Calculate zakat.
+FLutter App that calculate zakat.
